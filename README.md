@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisargoza" alt="nisargoza" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **VR Development**
 
 - 👨‍💻 All of my projects are available at [https://nisargoza.github.io/dev/](https://nisargoza.github.io/dev/)
 
-- 💬 Ask me about **Next.js**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **oza.nisarg2009@gmail.com**
 
