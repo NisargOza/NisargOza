@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate computational neuroscience research with interest in biomedical applications 
+I'm a passionate computational neuroscience researcher with interest in biomedical applications 
 
 
 ## 🌐 Socials:
